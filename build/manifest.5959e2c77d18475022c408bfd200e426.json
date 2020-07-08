@@ -1,0 +1,53 @@
+{
+  "icons": [
+    {
+      "src": "icon_1024x1024.ea8959dcd98e8142fca78dbba26be74f.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icon_1024x1024.ea8959dcd98e8142fca78dbba26be74f.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_512x512.ff014c04456ded2242827a20a5c0c9aa.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_384x384.2a3ea5f0f8312247e52ad0a3ba56f83e.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_256x256.7828b6f90d0a8415943f489d53375df9.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_192x192.c504ee1ac74c58d43bf2901951b541be.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_128x128.73207a06b499230854660d0afb912346.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_96x96.34edf9a9cffba5e6c9d2ddbd49cd4365.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Hacker News",
+  "short_name": "HackerNews",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Hacker News is a community started by Paul Graham for sharing \"Anything that good hackers would find interesting. ",
+  "background_color": "#ffffff",
+  "theme_color": "#c64f00"
+}
